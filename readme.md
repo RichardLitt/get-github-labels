@@ -1,5 +1,7 @@
 # get-github-labels [![Build Status](https://travis-ci.org/RichardLitt/get-github-labels.svg?branch=master)](https://travis-ci.org/RichardLitt/get-github-labels)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/RichardLitt/get-github-labels.svg)](https://greenkeeper.io/)
+
 > Get GitHub labels from a repository
 
 
